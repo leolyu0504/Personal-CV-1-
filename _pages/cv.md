@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Marketing,The University of HongKong, 2026(expected)
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Marketing, The University of Hong Kong , 2026(expected)
+* M.S. in Party Politics, Bejing Normal University , 2025
+* B.S. in Politics and Pubic Administration , Jilin University , 2022
 
 Work experience
 ======
